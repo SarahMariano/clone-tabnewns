@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>💌Pablo, eu te amo. Se conseguir ver isso da uma risadinha!</h1>
+    return <h1>🎉Parabéns você ganhou um vale beijo 💌! 🎉</h1>
 }
 
 export default Home;
